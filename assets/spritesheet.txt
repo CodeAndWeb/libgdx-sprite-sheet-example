@@ -1,4 +1,4 @@
-sprites.png
+spritesheet.png
 size: 1002, 478
 format: RGBA8888
 filter: Linear,Linear
