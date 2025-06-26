@@ -1,0 +1,44 @@
+spritesheet.png
+size: 1002, 455
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+capguy
+  bounds: 334, 1, 158, 316
+  offsets: 15, 5, 187, 324
+  index: 1
+capguy
+  bounds: 164, 1, 168, 303
+  offsets: 0, 13, 187, 324
+  index: 2
+capguy
+  bounds: 694, 1, 152, 307
+  offsets: 26, 15, 187, 324
+  rotate: 90
+  index: 3
+capguy
+  bounds: 694, 296, 141, 306
+  offsets: 42, 17, 187, 324
+  rotate: 90
+  index: 4
+capguy
+  bounds: 642, 155, 139, 311
+  offsets: 33, 10, 187, 324
+  rotate: 90
+  index: 5
+capguy
+  bounds: 381, 319, 135, 311
+  offsets: 29, 5, 187, 324
+  rotate: 90
+  index: 6
+capguy
+  bounds: 494, 1, 146, 314
+  offsets: 32, 8, 187, 324
+  index: 7
+capguy
+  bounds: 1, 1, 161, 319
+  offsets: 22, 4, 187, 324
+  index: 8
+libgdx
+  bounds: 1, 322, 378, 63

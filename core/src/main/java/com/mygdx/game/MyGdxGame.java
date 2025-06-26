@@ -19,7 +19,7 @@ public class MyGdxGame extends ApplicationAdapter {
 	@Override
 	public void create() {
 		batch = new SpriteBatch();
-		textureAtlas = new TextureAtlas("spritesheet.txt");
+		textureAtlas = new TextureAtlas("spritesheet.atlas");
 		animation = new Animation<>(0.066f, textureAtlas.createSprites("capguy"), Animation.PlayMode.LOOP);
 	}
 
