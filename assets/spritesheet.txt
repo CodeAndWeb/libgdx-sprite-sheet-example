@@ -1,60 +1,53 @@
 spritesheet.png
-size: 1002, 478
+size: 1002, 455
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-badlogic
-  rotate: false
-  xy: 745, 1
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
 capguy
   rotate: false
-  xy: 164, 1
+  xy: 334, 1
   size: 158, 316
   orig: 187, 324
   offset: 15, 5
   index: 1
 capguy
-  rotate: true
-  xy: 626, 309
+  rotate: false
+  xy: 164, 1
   size: 168, 303
   orig: 187, 324
   offset: 0, 13
   index: 2
 capguy
   rotate: true
-  xy: 1, 322
+  xy: 694, 1
   size: 152, 307
   orig: 187, 324
   offset: 26, 15
   index: 3
 capguy
-  rotate: false
-  xy: 602, 1
+  rotate: true
+  xy: 694, 296
   size: 141, 306
   orig: 187, 324
   offset: 42, 17
   index: 4
 capguy
-  rotate: false
-  xy: 324, 1
+  rotate: true
+  xy: 642, 155
   size: 139, 311
   orig: 187, 324
   offset: 33, 10
   index: 5
 capguy
-  rotate: false
-  xy: 465, 1
+  rotate: true
+  xy: 381, 319
   size: 135, 311
   orig: 187, 324
   offset: 29, 5
   index: 6
 capguy
-  rotate: true
-  xy: 310, 319
+  rotate: false
+  xy: 494, 1
   size: 146, 314
   orig: 187, 324
   offset: 32, 8
@@ -66,3 +59,10 @@ capguy
   orig: 187, 324
   offset: 22, 4
   index: 8
+libgdx
+  rotate: false
+  xy: 1, 322
+  size: 378, 63
+  orig: 378, 63
+  offset: 0, 0
+  index: -1

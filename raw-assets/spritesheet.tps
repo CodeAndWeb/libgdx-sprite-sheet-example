@@ -4,7 +4,7 @@
         <key>fileFormatVersion</key>
         <int>6</int>
         <key>texturePackerVersion</key>
-        <string>7.0.3</string>
+        <string>7.7.1</string>
         <key>autoSDSettings</key>
         <array>
             <struct type="AutoSDSettings">
@@ -173,21 +173,6 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">badlogic.jpg</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>64,64,128,128</rect>
-                <key>scale9Paddings</key>
-                <rect>64,64,128,128</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">capguy/capguy_0001.png</key>
             <key type="filename">capguy/capguy_0002.png</key>
             <key type="filename">capguy/capguy_0003.png</key>
@@ -210,6 +195,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">libgdx.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>95,16,189,31</rect>
+                <key>scale9Paddings</key>
+                <rect>95,16,189,31</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
         </map>
         <key>fileLists</key>
         <map type="SpriteSheetMap">
@@ -218,7 +218,7 @@
                 <key>files</key>
                 <array>
                     <filename>capguy</filename>
-                    <filename>badlogic.jpg</filename>
+                    <filename>libgdx.png</filename>
                 </array>
             </struct>
         </map>
